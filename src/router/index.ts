@@ -1,5 +1,5 @@
 ﻿import { createRouter, createWebHistory } from 'vue-router'
-import dataCenter from '../view/data-center.vue'
+import dataCenter from '../view/data-center/data-center.vue'
 
 const routes = [
   {

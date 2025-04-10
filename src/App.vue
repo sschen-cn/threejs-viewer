@@ -7,4 +7,9 @@
   </div>
 </template>
 
-<style scoped></style>
+<style scoped lang="css">
+.main {
+  width: 100vw;
+  height: 100vh;
+}
+</style>
